@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.openjfx.model","l":"Calculations"},{"p":"org.openjfx","l":"FXMLController"},{"p":"org.openjfx","l":"MainApp"}]

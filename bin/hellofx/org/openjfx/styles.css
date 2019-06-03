@@ -1,0 +1,31 @@
+.numbers {
+    -fx-background-color: #aeffd4;
+    -fx-border-color: #98b8fd;
+    -fx-border-width:4; 
+}
+.numbers:hover {
+  -fx-background-color:#4965e9;
+}
+
+.equals {
+    -fx-background-color: #ff8415;
+    -fx-border-color: #98b8fd;
+    -fx-border-width:4; 
+}
+.equals:hover {
+  -fx-background-color:#f48617;
+}
+.operations{
+    -fx-background-color: #ffc42d;
+    -fx-border-color: #98b8fd;
+    -fx-border-width:4; 
+
+}
+.operations:hover {
+  -fx-background-color:#f48617;
+}
+.text-field {
+    -fx-background-color: rgb(211, 226, 255);
+    -fx-border-color: #98b8fd;
+     -fx-border-width:4; 
+}

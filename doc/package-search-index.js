@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"org.openjfx","l":"org.openjfx"},{"m":"org.openjfx","l":"org.openjfx.model"}]
